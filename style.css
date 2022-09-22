@@ -6,10 +6,6 @@
     margin-bottom: 5px;
 }
 
-input{
-    display: inline-block;
-}
-
 .kov{
     max-width: 300px;
     padding: 10px;
@@ -19,8 +15,22 @@ input{
     color: green;
     font-size: large;
     text-align: center;
+    margin-bottom: 5px;
 }
 
 p{
     display: inline;
+}
+
+.mezo{
+    margin: auto;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.jatek-cont{
+    max-width: 150px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
