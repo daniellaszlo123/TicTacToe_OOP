@@ -1,0 +1,26 @@
+.j-nev{
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+input{
+    display: inline-block;
+}
+
+.kov{
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+    color: green;
+    font-size: large;
+    text-align: center;
+}
+
+p{
+    display: inline;
+}
